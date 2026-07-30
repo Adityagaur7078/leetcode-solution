@@ -1,4 +1,3 @@
-// Last updated: 7/31/2026, 12:01:49 AM
 import java.util.HashMap;
 
 class Solution {

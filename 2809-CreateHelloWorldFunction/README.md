@@ -1,0 +1,47 @@
+# Create Hello World Function
+
+Write a function `createHelloWorld`. It should return a new function that always returns `"Hello World"`.
+
+## Example 1
+
+**Input:**
+```text
+args = []
+```
+
+**Output:**
+```text
+"Hello World"
+```
+
+**Explanation:**
+```text
+const f = createHelloWorld();
+f(); // "Hello World"
+```
+
+The function returned by `createHelloWorld` should always return `"Hello World"`.
+
+## Example 2
+
+**Input:**
+```text
+args = [{},null,42]
+```
+
+**Output:**
+```text
+"Hello World"
+```
+
+**Explanation:**
+```text
+const f = createHelloWorld();
+f({}, null, 42); // "Hello World"
+```
+
+Any arguments could be passed to the function but it should still always return `"Hello World"`.
+
+## Constraints
+
+- `0 <= args.length <= 10`

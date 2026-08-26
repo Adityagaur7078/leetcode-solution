@@ -1,43 +1,26 @@
-// Last updated: 8/22/2026, 11:41:35 PM
+// Last updated: 8/26/2026, 5:39:05 AM
 1class Solution {
-2    public int myAtoi(String s) {
-3        
-4        int i = 0;
-5        int n = s.length();
+2    public int reverse(int x) {
+3        int result = 0;
+4
+5        while (x != 0) {
 6
-7        while (i < n && s.charAt(i) == ' ') {
-8            i++;
-9        }
-10
-11        int sign = 1;
-12
-13        if (i < n && s.charAt(i) == '-') {
-14            sign = -1;
-15            i++;
-16        } else if (i < n && s.charAt(i) == '+') {
-17            i++;
-18        }
+7            int digit = x % 10;
+8            x = x / 10;
+9
+10            if (result > Integer.MAX_VALUE / 10 ||
+11                (result == Integer.MAX_VALUE / 10 && digit > 7)) {
+12                return 0;
+13            }
+14
+15            if (result < Integer.MIN_VALUE / 10 ||
+16                (result == Integer.MIN_VALUE / 10 && digit < -8)) {
+17                return 0;
+18            }
 19
-20        int result = 0;
-21
-22        while (i < n && s.charAt(i) >= '0' && s.charAt(i) <= '9') {
-23
-24            int digit = s.charAt(i) - '0';
-25
-26            if (result > Integer.MAX_VALUE / 10 ||
-27                (result == Integer.MAX_VALUE / 10 &&
-28                 digit > 7)) {
-29
-30                return sign == 1
-31                    ? Integer.MAX_VALUE
-32                    : Integer.MIN_VALUE;
-33            }
-34
-35            result = result * 10 + digit;
-36
-37            i++;
-38        }
-39
-40        return result * sign;
-41    }
-42}
+20            result = result * 10 + digit;
+21        }
+22
+23        return result;
+24    }
+25}

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -62,4 +63,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->

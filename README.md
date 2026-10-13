@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0242-valid-anagram) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -77,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

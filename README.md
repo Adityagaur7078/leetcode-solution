@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->

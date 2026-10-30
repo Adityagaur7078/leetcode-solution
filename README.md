@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0057-insert-interval](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Bit Manipulation

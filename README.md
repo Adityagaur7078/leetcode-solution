@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0242-valid-anagram) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1796-second-largest-digit-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
 |  |

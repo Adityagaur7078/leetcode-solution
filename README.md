@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0057-insert-interval](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0704-binary-search) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityagaur7078/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Adityagaur7078/leetcode-solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

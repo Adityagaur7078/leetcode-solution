@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
 | [0057-insert-interval](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0057-insert-interval) |
@@ -101,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

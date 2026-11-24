@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0018-4sum) |
 | [0057-insert-interval](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0704-binary-search) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adityagaur7078/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
